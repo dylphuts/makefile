@@ -1,1 +1,1 @@
-A repo to practice making make files.
+A repo to practice using makefiles.
